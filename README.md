@@ -1,0 +1,1 @@
+# Reconocimiento-de-lenguaje-de-se-as-con-CNN-entrenado-desde-cero
