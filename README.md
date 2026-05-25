@@ -120,9 +120,3 @@ sign_recognition/cnn_model.py    Arquitectura CNN y guardado/carga.
 sign_recognition/camera.py       Apertura robusta de camara.
 sign_recognition/dataset.py      Recorrido de imagenes por clase.
 ```
-
-## Documento definitivo
-
-La explicacion completa del codigo y el flujo esta en:
-
-[docs/proyecto_definitivo.md](<D:/manos con imagen/docs/proyecto_definitivo.md>)
